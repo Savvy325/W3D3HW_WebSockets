@@ -1,0 +1,13 @@
+.sent-message {
+  background-color: #DCF8C6; /* Light green for sent messages */
+  margin-bottom: 10px;
+}
+
+.received-message {
+  background-color: #EAEAEA; /* Light grey for received messages */
+  margin-bottom: 10px;
+}
+
+.sender {
+  font-weight: bold;
+}
